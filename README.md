@@ -1,2 +1,3 @@
 # ayush-G
-I am Data Analyzer, Master in Skilled from IIT Madra
+I am a Data Analyzer, Master's in Skilled from IIT Madras
+Roll no - 22f3000144
